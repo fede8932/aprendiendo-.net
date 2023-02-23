@@ -1,0 +1,15 @@
+/home/fede/Documentos/Proyectos/aprendiendo C#/POO ejercicio I/bin/Debug/net6.0/POO ejercicio I
+/home/fede/Documentos/Proyectos/aprendiendo C#/POO ejercicio I/bin/Debug/net6.0/POO ejercicio I.deps.json
+/home/fede/Documentos/Proyectos/aprendiendo C#/POO ejercicio I/bin/Debug/net6.0/POO ejercicio I.runtimeconfig.json
+/home/fede/Documentos/Proyectos/aprendiendo C#/POO ejercicio I/bin/Debug/net6.0/POO ejercicio I.dll
+/home/fede/Documentos/Proyectos/aprendiendo C#/POO ejercicio I/bin/Debug/net6.0/POO ejercicio I.pdb
+/home/fede/Documentos/Proyectos/aprendiendo C#/POO ejercicio I/obj/Debug/net6.0/POO ejercicio I.csproj.AssemblyReference.cache
+/home/fede/Documentos/Proyectos/aprendiendo C#/POO ejercicio I/obj/Debug/net6.0/POO ejercicio I.GeneratedMSBuildEditorConfig.editorconfig
+/home/fede/Documentos/Proyectos/aprendiendo C#/POO ejercicio I/obj/Debug/net6.0/POO ejercicio I.AssemblyInfoInputs.cache
+/home/fede/Documentos/Proyectos/aprendiendo C#/POO ejercicio I/obj/Debug/net6.0/POO ejercicio I.AssemblyInfo.cs
+/home/fede/Documentos/Proyectos/aprendiendo C#/POO ejercicio I/obj/Debug/net6.0/POO ejercicio I.csproj.CoreCompileInputs.cache
+/home/fede/Documentos/Proyectos/aprendiendo C#/POO ejercicio I/obj/Debug/net6.0/POO ejercicio I.dll
+/home/fede/Documentos/Proyectos/aprendiendo C#/POO ejercicio I/obj/Debug/net6.0/refint/POO ejercicio I.dll
+/home/fede/Documentos/Proyectos/aprendiendo C#/POO ejercicio I/obj/Debug/net6.0/POO ejercicio I.pdb
+/home/fede/Documentos/Proyectos/aprendiendo C#/POO ejercicio I/obj/Debug/net6.0/POO ejercicio I.genruntimeconfig.cache
+/home/fede/Documentos/Proyectos/aprendiendo C#/POO ejercicio I/obj/Debug/net6.0/ref/POO ejercicio I.dll
