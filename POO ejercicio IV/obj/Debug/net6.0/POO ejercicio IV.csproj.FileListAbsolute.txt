@@ -1,0 +1,15 @@
+/home/fede/Documentos/Proyectos/aprendiendo C#/POO ejercicio IV/bin/Debug/net6.0/POO ejercicio IV
+/home/fede/Documentos/Proyectos/aprendiendo C#/POO ejercicio IV/bin/Debug/net6.0/POO ejercicio IV.deps.json
+/home/fede/Documentos/Proyectos/aprendiendo C#/POO ejercicio IV/bin/Debug/net6.0/POO ejercicio IV.runtimeconfig.json
+/home/fede/Documentos/Proyectos/aprendiendo C#/POO ejercicio IV/bin/Debug/net6.0/POO ejercicio IV.dll
+/home/fede/Documentos/Proyectos/aprendiendo C#/POO ejercicio IV/bin/Debug/net6.0/POO ejercicio IV.pdb
+/home/fede/Documentos/Proyectos/aprendiendo C#/POO ejercicio IV/obj/Debug/net6.0/POO ejercicio IV.csproj.AssemblyReference.cache
+/home/fede/Documentos/Proyectos/aprendiendo C#/POO ejercicio IV/obj/Debug/net6.0/POO ejercicio IV.GeneratedMSBuildEditorConfig.editorconfig
+/home/fede/Documentos/Proyectos/aprendiendo C#/POO ejercicio IV/obj/Debug/net6.0/POO ejercicio IV.AssemblyInfoInputs.cache
+/home/fede/Documentos/Proyectos/aprendiendo C#/POO ejercicio IV/obj/Debug/net6.0/POO ejercicio IV.AssemblyInfo.cs
+/home/fede/Documentos/Proyectos/aprendiendo C#/POO ejercicio IV/obj/Debug/net6.0/POO ejercicio IV.csproj.CoreCompileInputs.cache
+/home/fede/Documentos/Proyectos/aprendiendo C#/POO ejercicio IV/obj/Debug/net6.0/POO ejercicio IV.dll
+/home/fede/Documentos/Proyectos/aprendiendo C#/POO ejercicio IV/obj/Debug/net6.0/refint/POO ejercicio IV.dll
+/home/fede/Documentos/Proyectos/aprendiendo C#/POO ejercicio IV/obj/Debug/net6.0/POO ejercicio IV.pdb
+/home/fede/Documentos/Proyectos/aprendiendo C#/POO ejercicio IV/obj/Debug/net6.0/POO ejercicio IV.genruntimeconfig.cache
+/home/fede/Documentos/Proyectos/aprendiendo C#/POO ejercicio IV/obj/Debug/net6.0/ref/POO ejercicio IV.dll
